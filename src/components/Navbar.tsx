@@ -19,6 +19,7 @@ const Navbar = () => {
     { label: "Início", href: "#" },
     { label: "Benefícios", href: "#beneficios" },
     { label: "Metodologia", href: "#metodologia" },
+    { label: "Planos", href: "#planos" },
     { label: "Resultados", href: "#resultados" },
   ];
 
@@ -57,7 +58,7 @@ const Navbar = () => {
           <div className="hidden md:block">
             <Button variant="hero" size="default" asChild>
               <a 
-                href="https://wa.me/5500000000000?text=Olá! Quero saber mais sobre a consultoria!" 
+                href="https://wa.me/5585981311619?text=Olá! Quero saber mais sobre a consultoria!" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"
@@ -98,7 +99,7 @@ const Navbar = () => {
               ))}
               <Button variant="hero" size="lg" className="mt-4" asChild>
                 <a 
-                  href="https://wa.me/5500000000000" 
+                  href="https://wa.me/5585981311619" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-2"

@@ -1,4 +1,4 @@
-import { Instagram, MessageCircle, Mail, MapPin } from "lucide-react";
+import { Instagram, MessageCircle, MapPin } from "lucide-react";
 
 const Footer = () => {
   return (
@@ -15,7 +15,7 @@ const Footer = () => {
             </p>
             <div className="flex gap-4">
               <a 
-                href="https://instagram.com" 
+                href="https://www.instagram.com/renatosnpersonal" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center hover:bg-primary hover:text-primary-foreground transition-all"
@@ -23,7 +23,7 @@ const Footer = () => {
                 <Instagram className="w-5 h-5" />
               </a>
               <a 
-                href="https://wa.me/5500000000000" 
+                href="https://wa.me/5585981311619" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center hover:bg-[hsl(142,70%,45%)] hover:text-foreground transition-all"
@@ -48,13 +48,18 @@ const Footer = () => {
                 </a>
               </li>
               <li>
+                <a href="#planos" className="text-muted-foreground hover:text-primary transition-colors">
+                  Planos
+                </a>
+              </li>
+              <li>
                 <a href="#resultados" className="text-muted-foreground hover:text-primary transition-colors">
                   Resultados
                 </a>
               </li>
               <li>
                 <a 
-                  href="https://wa.me/5500000000000" 
+                  href="https://wa.me/5585981311619" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-primary transition-colors"
@@ -71,15 +76,18 @@ const Footer = () => {
             <ul className="space-y-3">
               <li className="flex items-center gap-3 text-muted-foreground">
                 <MessageCircle className="w-5 h-5 text-primary" />
-                <span>WhatsApp: (00) 00000-0000</span>
-              </li>
-              <li className="flex items-center gap-3 text-muted-foreground">
-                <Mail className="w-5 h-5 text-primary" />
-                <span>contato@renatosousa.com</span>
+                <a 
+                  href="https://wa.me/5585981311619"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-primary transition-colors"
+                >
+                  WhatsApp: (85) 98131-1619
+                </a>
               </li>
               <li className="flex items-center gap-3 text-muted-foreground">
                 <MapPin className="w-5 h-5 text-primary" />
-                <span>Atendimento Online e Presencial</span>
+                <span>Fortaleza - CE</span>
               </li>
             </ul>
           </div>
