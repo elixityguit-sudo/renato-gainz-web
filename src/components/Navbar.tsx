@@ -58,7 +58,7 @@ const Navbar = () => {
           <div className="hidden md:block">
             <Button variant="hero" size="default" asChild>
               <a 
-                href="https://wa.me/5585981311619?text=Olá! Quero saber mais sobre a consultoria!" 
+                href="https://wa.me/558581311619?text=Olá! Quero saber mais sobre a consultoria!" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2"
@@ -99,7 +99,7 @@ const Navbar = () => {
               ))}
               <Button variant="hero" size="lg" className="mt-4" asChild>
                 <a 
-                  href="https://wa.me/5585981311619" 
+                  href="https://wa.me/558581311619" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-2"
