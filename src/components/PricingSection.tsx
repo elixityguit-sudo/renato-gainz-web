@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { MessageCircle, Check, Star } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-const WHATSAPP_NUMBER = "5585981311619";
+const WHATSAPP_LINK = "https://l1nk.dev/ue3hZ";
 
 const plans = [
   {
@@ -138,7 +138,7 @@ const PricingSection = () => {
                 asChild
               >
                 <a 
-                  href={`https://wa.me/${WHATSAPP_NUMBER}?text=Olá! Quero saber mais sobre o plano ${plan.name}!`}
+                  href={WHATSAPP_LINK}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2"
