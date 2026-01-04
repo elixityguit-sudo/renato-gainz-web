@@ -56,12 +56,12 @@ const Navbar = () => {
 
           {/* CTA Button */}
           <div className="hidden md:block">
-            <Button variant="hero" size="sm" asChild>
+            <Button variant="hero" size="sm" className="h-8 px-3 py-1" asChild>
               <a 
-                href="https://wa.me/558581311619?text=Olá! Quero saber mais sobre a consultoria!" 
+                href="https://wa.me/5585981311619?text=Olá! Quero saber mais sobre a consultoria!" 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="flex items-center gap-2 text-xs"
+                className="flex items-center gap-1.5 text-[10px]"
               >
                 <MessageCircle className="w-3 h-3" />
                 COMEÇAR AGORA

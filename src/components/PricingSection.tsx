@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { MessageCircle, Check, Star } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-const WHATSAPP_NUMBER = "558581311619";
+const WHATSAPP_NUMBER = "5585981311619";
 
 const plans = [
   {
