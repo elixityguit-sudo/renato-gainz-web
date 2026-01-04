@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { MessageCircle, Check, Star } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-const WHATSAPP_LINK = "https://l1nk.dev/ue3hZ";
+const WHATSAPP_LINK = "https://wa.me/5585981311619?text=Olá! Quero saber mais sobre os planos!";
 
 const plans = [
   {

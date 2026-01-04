@@ -58,7 +58,7 @@ const Navbar = () => {
           <div className="hidden md:block">
             <Button variant="hero" size="sm" className="h-8 px-3 py-1" asChild>
               <a 
-                href="https://l1nk.dev/ue3hZ" 
+                href="https://wa.me/5585981311619?text=Olá! Quero saber mais sobre a consultoria!" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-1.5 text-[10px]"
@@ -99,7 +99,7 @@ const Navbar = () => {
               ))}
               <Button variant="hero" size="lg" className="mt-4" asChild>
                 <a 
-                  href="https://l1nk.dev/ue3hZ" 
+                  href="https://wa.me/5585981311619?text=Olá! Quero saber mais sobre a consultoria!" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-2"
