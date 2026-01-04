@@ -84,7 +84,7 @@ const HeroSection = () => {
                 asChild
               >
               <a 
-                  href="https://wa.me/5585981311619?text=Olá! Quero saber mais sobre a consultoria do Personal Renato Sousa!" 
+                  href="https://l1nk.dev/ue3hZ" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="flex items-center gap-3"
