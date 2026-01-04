@@ -37,7 +37,7 @@ const Navbar = () => {
       <div className="container px-4">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
-          <a href="#" className="font-display text-2xl font-bold text-primary">
+          <a href="#" className="font-display text-xl font-bold text-primary">
             RENATO SOUSA
           </a>
 
