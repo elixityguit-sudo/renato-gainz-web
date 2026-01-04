@@ -42,7 +42,7 @@ const CTASection = () => {
               asChild
             >
               <a 
-                href="https://wa.me/558581311619?text=Olá! Quero saber mais sobre a consultoria do Personal Renato Sousa!" 
+                href="https://wa.me/5585981311619?text=Olá! Quero saber mais sobre a consultoria do Personal Renato Sousa!" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-3"

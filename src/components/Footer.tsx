@@ -23,7 +23,7 @@ const Footer = () => {
                 <Instagram className="w-5 h-5" />
               </a>
               <a 
-                href="https://wa.me/558581311619"
+                href="https://wa.me/5585981311619"
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="w-10 h-10 rounded-lg bg-muted flex items-center justify-center hover:bg-[hsl(142,70%,45%)] hover:text-foreground transition-all"
@@ -59,7 +59,7 @@ const Footer = () => {
               </li>
               <li>
                 <a 
-                  href="https://wa.me/558581311619"
+                  href="https://wa.me/5585981311619"
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-primary transition-colors"
@@ -77,7 +77,7 @@ const Footer = () => {
               <li className="flex items-center gap-3 text-muted-foreground">
                 <MessageCircle className="w-5 h-5 text-primary" />
                 <a 
-                  href="https://wa.me/558581311619"
+                  href="https://wa.me/5585981311619"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="hover:text-primary transition-colors"
